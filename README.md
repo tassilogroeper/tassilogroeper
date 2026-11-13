@@ -1,6 +1,6 @@
 ### Tassilo Gröper — Solution Architect | Senior Full-Stack Developer
 
-Karlsruhe, Germany · [tassilogroeper.de](https://www.tassilogroeper.de) · [Case Studies](https://www.tassilogroeper.de/case-studies) · [LinkedIn](https://linkedin.com/in/tassilogroeper)
+Karlsruhe, Germany · [tassilogroeper.de](https://www.tassilogroeper.de) · [Case Studies](https://www.tassilogroeper.de/#case-studies) · [LinkedIn](https://linkedin.com/in/tassilogroeper)
 
 15+ years building digital products and platforms — from architecture roadmaps
 and DDD transformations to hands-on full-stack delivery.
